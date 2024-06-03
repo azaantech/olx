@@ -1,0 +1,179 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+    
+
+
+}
+nav{
+    background-color: hsl(180, 7%, 97%);
+    padding: 30px;
+
+
+    
+    
+
+}
+a{
+    text-decoration: none;
+    color: black;
+    margin-inline-start: 8px;
+    margin-inline-end: 7px;
+    margin-inline: 13px;
+    position: relative;bottom: 22px;
+
+
+
+    
+    
+    
+
+
+}
+a:hover{
+    padding: 0%;
+    color: rgb(79, 79, 240);
+}
+
+h1{
+    position: relative;
+    margin-right: 10px;
+    margin-inline: 10px;
+    font-size: x-large;
+}
+.search{
+    display: flex;
+    
+
+}
+.selectinput{
+    padding: 13px;
+    width: 300px;
+}
+.fa-magnifying-glass{
+    background-color: #002f34;
+    color: #fff;
+    padding: 15px;
+    border-radius: 2px;
+}
+#mobile{
+    color: white;
+    padding: 20px;
+    border-radius: 2px;
+}
+.login{
+    padding:9px ;
+    color:#002f34 ;
+}
+.azan{
+    padding: 10px;
+    background-color: #fff;
+    border: 6px solid;
+    border-radius: 25px;
+border-bottom: 6px solid #3a77ff;
+border-top: 6px solid #3a77ff;
+border-left: 6px solid yellow;
+border-right: 6px solid rgb(77, 236, 77);
+
+    
+}
+.li-menu{
+    display: inline-block;
+    margin-left: 5px;
+    
+    
+    
+}
+.ul-menu :hover{
+    cursor: pointer;
+    color: #3a77ff;
+}
+.pic{
+    background-color: #002f34;
+    padding: 8%;    
+    
+}
+.cat-card{
+max-width: 200px;
+display: inline-block;
+text-align: center;
+font-weight: bold;
+}
+.ad-card{
+    max-width: 200px;
+    
+    
+}
+.ad-card img{
+    width: 200px;
+    margin-left: 10px;
+    
+    
+}
+
+.ad-card{
+    overflow: hidden;
+    cursor: pointer;
+    display: inline-block;
+    border: 1px solid;margin-right: 7px;position: relative;left: 15px;
+    width: 500px;
+    margin: 20px,20px;
+    border-radius: 5px
+
+
+    
+}
+.ad-card img{
+    width: 100%;position: relative;right: 10px;
+    height:150px;
+    padding-right: 10px;
+    object-fit: cover;
+}
+.heart-icon{
+    float: right;
+
+}
+.ad-desc,
+.location{
+padding: 10px;
+}
+
+.pricing{
+padding: 10px;
+font-weight: bold;
+}
+.small-text{
+    font-size: 12px;
+    color: #6c6c6c;
+    margin-top: 5px;
+}
+.footer{
+    margin: top 0;; 
+    background-color: #f7f8f8;
+    padding: 50px;
+    position: relative;
+}
+.footer-links-head{
+    margin-bottom: 10px;
+
+}
+.footer-links{
+    list-style-type: none;
+    margin-bottom: 3px;
+    color: #5f5d5d;
+}
+.footer-colum{
+    margin-right: 20px;
+    display: inline-block;
+    width: 20%;
+}
+.verticle-line{
+    width: 1px;
+    height: 30px;
+    background-color: #6c6c6c;
+    margin-left: 1140px;
+    position: relative;bottom: 97px;
+
+
+}
